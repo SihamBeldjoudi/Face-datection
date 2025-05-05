@@ -94,8 +94,6 @@ To display sample results, you can insert a visualization image in your reposito
 * Add prediction and evaluation tools
 ---
 
-(If the code is not yet modularized, consider breaking it into standalone scripts.)
-
 ## Contributions
 
 Issues and pull requests are welcome.
