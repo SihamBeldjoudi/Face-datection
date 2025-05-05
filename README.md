@@ -1,2 +1,2 @@
-# Face-datection
+# Face-datection : Image Segmentation Preprocessing Pipeline
 This repository provides a preprocessing pipeline for supervised image segmentation tasks. It converts annotated RGB images with bounding boxes into training-ready datasets containing input images and corresponding binary masks. The processed data can be directly used for training neural networks such as U-Net or other segmentation architectures.
